@@ -4,4 +4,5 @@ module.exports = {
     chainz: require('./chainz'),
     blockonomics: require('./blockonomics'),
     neoscan: require('./neoscan'),
+    zensystem: require('./zensystem'),
 };
